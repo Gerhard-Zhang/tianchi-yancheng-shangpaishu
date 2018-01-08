@@ -32,3 +32,5 @@ https://gitlab.tianchi.aliyun.com/race231591/gitlab-u2323
 https://www.cnblogs.com/bradleon/p/6827109.html
 http://www.cnblogs.com/bradleon/p/6832867.html
 ARIMA模型介绍，对比起我平时看的这个算是少了的，但是还是莫名其妙看不下去，找时间再来看。
+
+而且还有一个很大的疑问，就是差分之后怎么回去？改变了数据了
