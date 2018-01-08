@@ -27,3 +27,8 @@ C(曜日系数)[相关历史数据] + C(回归系数)[回归模型预测值] + C
 刚刚找到了之前某个预测比赛的分享：
 https://gitlab.tianchi.aliyun.com/race231591/gitlab-u2323
 非常不错！
+
+
+https://www.cnblogs.com/bradleon/p/6827109.html
+http://www.cnblogs.com/bradleon/p/6832867.html
+ARIMA模型介绍，对比起我平时看的这个算是少了的，但是还是莫名其妙看不下去，找时间再来看。
